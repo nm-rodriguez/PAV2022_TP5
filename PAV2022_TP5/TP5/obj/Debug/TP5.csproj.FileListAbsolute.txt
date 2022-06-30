@@ -1,0 +1,53 @@
+C:\Users\Nicolás\source\repos\PAV2022_TP5\TP5\bin\Debug\TP5.exe.config
+C:\Users\Nicolás\source\repos\PAV2022_TP5\TP5\bin\Debug\TP5.exe
+C:\Users\Nicolás\source\repos\PAV2022_TP5\TP5\bin\Debug\TP5.pdb
+C:\Users\Nicolás\source\repos\PAV2022_TP5\TP5\obj\Debug\TP5.Form1.resources
+C:\Users\Nicolás\source\repos\PAV2022_TP5\TP5\obj\Debug\TP5.Properties.Resources.resources
+C:\Users\Nicolás\source\repos\PAV2022_TP5\TP5\obj\Debug\TP5.csproj.GenerateResource.cache
+C:\Users\Nicolás\source\repos\PAV2022_TP5\TP5\obj\Debug\TP5.csproj.CoreCompileInputs.cache
+C:\Users\Nicolás\source\repos\PAV2022_TP5\TP5\obj\Debug\TP5.exe
+C:\Users\Nicolás\source\repos\PAV2022_TP5\TP5\obj\Debug\TP5.pdb
+C:\Users\Nicolás\source\repos\PAV2022_TP5\TP5\obj\Debug\TP5.csproj.AssemblyReference.cache
+C:\Users\nrodriguez\Desktop\PAV2022_TP5\TP5\bin\Debug\TP5.exe.config
+C:\Users\nrodriguez\Desktop\PAV2022_TP5\TP5\bin\Debug\TP5.exe
+C:\Users\nrodriguez\Desktop\PAV2022_TP5\TP5\bin\Debug\TP5.pdb
+C:\Users\nrodriguez\Desktop\PAV2022_TP5\TP5\obj\Debug\TP5.csproj.SuggestedBindingRedirects.cache
+C:\Users\nrodriguez\Desktop\PAV2022_TP5\TP5\obj\Debug\TP5.Form1.resources
+C:\Users\nrodriguez\Desktop\PAV2022_TP5\TP5\obj\Debug\TP5.Properties.Resources.resources
+C:\Users\nrodriguez\Desktop\PAV2022_TP5\TP5\obj\Debug\TP5.csproj.GenerateResource.cache
+C:\Users\nrodriguez\Desktop\PAV2022_TP5\TP5\obj\Debug\TP5.csproj.CoreCompileInputs.cache
+C:\Users\nrodriguez\Desktop\PAV2022_TP5\TP5\obj\Debug\TP5.exe
+C:\Users\nrodriguez\Desktop\PAV2022_TP5\TP5\obj\Debug\TP5.pdb
+C:\Users\nrodriguez\Desktop\PAV2022_TP5\TP5\obj\Debug\TP5.csproj.AssemblyReference.cache
+C:\Users\Nicolás\Documents\ESTUDIO\Ing. Sistemas 3°año\ELECTIVA - PAV\TPS - Codigo\PAV2022_TP5\TP5\bin\Debug\TP5.exe.config
+C:\Users\Nicolás\Documents\ESTUDIO\Ing. Sistemas 3°año\ELECTIVA - PAV\TPS - Codigo\PAV2022_TP5\TP5\bin\Debug\TP5.exe
+C:\Users\Nicolás\Documents\ESTUDIO\Ing. Sistemas 3°año\ELECTIVA - PAV\TPS - Codigo\PAV2022_TP5\TP5\bin\Debug\TP5.pdb
+C:\Users\Nicolás\Documents\ESTUDIO\Ing. Sistemas 3°año\ELECTIVA - PAV\TPS - Codigo\PAV2022_TP5\TP5\obj\Debug\TP5.Form1.resources
+C:\Users\Nicolás\Documents\ESTUDIO\Ing. Sistemas 3°año\ELECTIVA - PAV\TPS - Codigo\PAV2022_TP5\TP5\obj\Debug\TP5.Properties.Resources.resources
+C:\Users\Nicolás\Documents\ESTUDIO\Ing. Sistemas 3°año\ELECTIVA - PAV\TPS - Codigo\PAV2022_TP5\TP5\obj\Debug\TP5.csproj.GenerateResource.cache
+C:\Users\Nicolás\Documents\ESTUDIO\Ing. Sistemas 3°año\ELECTIVA - PAV\TPS - Codigo\PAV2022_TP5\TP5\obj\Debug\TP5.csproj.CoreCompileInputs.cache
+C:\Users\Nicolás\Documents\ESTUDIO\Ing. Sistemas 3°año\ELECTIVA - PAV\TPS - Codigo\PAV2022_TP5\TP5\obj\Debug\TP5.exe
+C:\Users\Nicolás\Documents\ESTUDIO\Ing. Sistemas 3°año\ELECTIVA - PAV\TPS - Codigo\PAV2022_TP5\TP5\obj\Debug\TP5.pdb
+C:\Users\nrodriguez\Downloads\PAV2022_TP5\TP5\bin\Debug\TP5.exe.config
+C:\Users\nrodriguez\Downloads\PAV2022_TP5\TP5\bin\Debug\TP5.exe
+C:\Users\nrodriguez\Downloads\PAV2022_TP5\TP5\bin\Debug\TP5.pdb
+C:\Users\nrodriguez\Downloads\PAV2022_TP5\TP5\obj\Debug\TP5.csproj.SuggestedBindingRedirects.cache
+C:\Users\nrodriguez\Downloads\PAV2022_TP5\TP5\obj\Debug\TP5.Form1.resources
+C:\Users\nrodriguez\Downloads\PAV2022_TP5\TP5\obj\Debug\TP5.Properties.Resources.resources
+C:\Users\nrodriguez\Downloads\PAV2022_TP5\TP5\obj\Debug\TP5.csproj.GenerateResource.cache
+C:\Users\nrodriguez\Downloads\PAV2022_TP5\TP5\obj\Debug\TP5.csproj.CoreCompileInputs.cache
+C:\Users\nrodriguez\Downloads\PAV2022_TP5\TP5\obj\Debug\TP5.exe
+C:\Users\nrodriguez\Downloads\PAV2022_TP5\TP5\obj\Debug\TP5.pdb
+C:\Users\nrodriguez\Downloads\PAV2022_TP5\TP5\obj\Debug\TP5.csproj.AssemblyReference.cache
+C:\Users\Nicolás\Documents\ESTUDIO\Ing. Sistemas 3°año\ELECTIVA - PAV\TPS - Codigo\PAV2022_TP5\TP5\obj\Debug\TP5.csproj.AssemblyReference.cache
+C:\Users\Nicolás\Documents\ESTUDIO\Ing. Sistemas 3°año\ELECTIVA - PAV\TPS - Codigo\PAV2022_TP5\TP5\obj\Debug\TP5.Main.resources
+C:\Users\Nicolás\Documents\ESTUDIO\Ing. Sistemas 3°año\ELECTIVA - PAV\TPS - Codigo\PAV2022_TP5_46351_V2\PAV2022_TP5\TP5\bin\Debug\TP5.exe.config
+C:\Users\Nicolás\Documents\ESTUDIO\Ing. Sistemas 3°año\ELECTIVA - PAV\TPS - Codigo\PAV2022_TP5_46351_V2\PAV2022_TP5\TP5\bin\Debug\TP5.exe
+C:\Users\Nicolás\Documents\ESTUDIO\Ing. Sistemas 3°año\ELECTIVA - PAV\TPS - Codigo\PAV2022_TP5_46351_V2\PAV2022_TP5\TP5\bin\Debug\TP5.pdb
+C:\Users\Nicolás\Documents\ESTUDIO\Ing. Sistemas 3°año\ELECTIVA - PAV\TPS - Codigo\PAV2022_TP5_46351_V2\PAV2022_TP5\TP5\obj\Debug\TP5.csproj.AssemblyReference.cache
+C:\Users\Nicolás\Documents\ESTUDIO\Ing. Sistemas 3°año\ELECTIVA - PAV\TPS - Codigo\PAV2022_TP5_46351_V2\PAV2022_TP5\TP5\obj\Debug\TP5.Main.resources
+C:\Users\Nicolás\Documents\ESTUDIO\Ing. Sistemas 3°año\ELECTIVA - PAV\TPS - Codigo\PAV2022_TP5_46351_V2\PAV2022_TP5\TP5\obj\Debug\TP5.Properties.Resources.resources
+C:\Users\Nicolás\Documents\ESTUDIO\Ing. Sistemas 3°año\ELECTIVA - PAV\TPS - Codigo\PAV2022_TP5_46351_V2\PAV2022_TP5\TP5\obj\Debug\TP5.csproj.GenerateResource.cache
+C:\Users\Nicolás\Documents\ESTUDIO\Ing. Sistemas 3°año\ELECTIVA - PAV\TPS - Codigo\PAV2022_TP5_46351_V2\PAV2022_TP5\TP5\obj\Debug\TP5.csproj.CoreCompileInputs.cache
+C:\Users\Nicolás\Documents\ESTUDIO\Ing. Sistemas 3°año\ELECTIVA - PAV\TPS - Codigo\PAV2022_TP5_46351_V2\PAV2022_TP5\TP5\obj\Debug\TP5.exe
+C:\Users\Nicolás\Documents\ESTUDIO\Ing. Sistemas 3°año\ELECTIVA - PAV\TPS - Codigo\PAV2022_TP5_46351_V2\PAV2022_TP5\TP5\obj\Debug\TP5.pdb
